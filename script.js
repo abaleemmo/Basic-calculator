@@ -71,93 +71,93 @@
             input2 = parseInt(input2);
         }
     });
-    zeroButton.addEventListener("click", function(){
+    oneButton.addEventListener("click", function(){
         if (inputChange = false){
-            input1 = input1 + "0";
+            input1 = input1 + "1";
             input1 = parseInt(input1);
         }
         else if (inputChange = true){
-            input2 = input2 + "0";
+            input2 = input2 + "1";
             input2 = parseInt(input2);
         }
     });
-    zeroButton.addEventListener("click", function(){
+    twoButton.addEventListener("click", function(){
         if (inputChange = false){
-            input1 = input1 + "0";
+            input1 = input1 + "2";
             input1 = parseInt(input1);
         }
         else if (inputChange = true){
-            input2 = input2 + "0";
+            input2 = input2 + "2";
             input2 = parseInt(input2);
         }
     });
-    zeroButton.addEventListener("click", function(){
+    threeButton.addEventListener("click", function(){
         if (inputChange = false){
-            input1 = input1 + "0";
+            input1 = input1 + "3";
             input1 = parseInt(input1);
         }
         else if (inputChange = true){
-            input2 = input2 + "0";
+            input2 = input2 + "3";
             input2 = parseInt(input2);
         }
     });
-    zeroButton.addEventListener("click", function(){
+    fourButton.addEventListener("click", function(){
         if (inputChange = false){
-            input1 = input1 + "0";
+            input1 = input1 + "4";
             input1 = parseInt(input1);
         }
         else if (inputChange = true){
-            input2 = input2 + "0";
+            input2 = input2 + "4";
             input2 = parseInt(input2);
         }
     });
-    zeroButton.addEventListener("click", function(){
+    fiveButton.addEventListener("click", function(){
         if (inputChange = false){
-            input1 = input1 + "0";
+            input1 = input1 + "5";
             input1 = parseInt(input1);
         }
         else if (inputChange = true){
-            input2 = input2 + "0";
+            input2 = input2 + "5";
             input2 = parseInt(input2);
         }
     });
-    zeroButton.addEventListener("click", function(){
+    sixButton.addEventListener("click", function(){
         if (inputChange = false){
-            input1 = input1 + "0";
+            input1 = input1 + "6";
             input1 = parseInt(input1);
         }
         else if (inputChange = true){
-            input2 = input2 + "0";
+            input2 = input2 + "6";
             input2 = parseInt(input2);
         }
     });
-    zeroButton.addEventListener("click", function(){
+    sevenButton.addEventListener("click", function(){
         if (inputChange = false){
-            input1 = input1 + "0";
+            input1 = input1 + "7";
             input1 = parseInt(input1);
         }
         else if (inputChange = true){
-            input2 = input2 + "0";
+            input2 = input2 + "7";
             input2 = parseInt(input2);
         }
     });
-    zeroButton.addEventListener("click", function(){
+    eightButton.addEventListener("click", function(){
         if (inputChange = false){
-            input1 = input1 + "0";
+            input1 = input1 + "8";
             input1 = parseInt(input1);
         }
         else if (inputChange = true){
-            input2 = input2 + "0";
+            input2 = input2 + "8";
             input2 = parseInt(input2);
         }
     });
-    zeroButton.addEventListener("click", function(){
+    nineButton.addEventListener("click", function(){
         if (inputChange = false){
-            input1 = input1 + "0";
+            input1 = input1 + "9";
             input1 = parseInt(input1);
         }
         else if (inputChange = true){
-            input2 = input2 + "0";
+            input2 = input2 + "9";
             input2 = parseInt(input2);
         }
     });
